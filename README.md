@@ -1,7 +1,7 @@
 # Thông tin sinh viên
-- Tạ Đăng Quang
-- Phùng Gia Minh
-- Nguyễn Hải Long
+- Tạ Đăng Quang (23010860)
+- Phùng Gia Minh (23010869)
+- Nguyễn Hải Long (23010872)
 
 ---
 
@@ -22,7 +22,7 @@ Dự án được xây dựng nhằm mục tiêu học tập, áp dụng các ki
 
 ---
 
-## 🧩 Các trò chơi trong ứng dụng
+## Các trò chơi trong ứng dụng
 
 ### 1. 2048
 - Người chơi di chuyển các ô số để gộp chúng lại
@@ -60,13 +60,9 @@ Dự án được xây dựng nhằm mục tiêu học tập, áp dụng các ki
 ---
 
 ## Chức năng chính
+- Đăng nhập
 - Menu chọn game
 - Chơi nhiều game trong cùng một ứng dụng
 - Tính điểm (Score)
 - Khởi động lại game
 - Giao diện đơn giản, dễ sử dụng
-
----
-
-## Ghi chú
-Dự án được phát triển với mục đích học tập và nghiên cứu.
