@@ -66,4 +66,3 @@ Dự án được xây dựng nhằm mục tiêu học tập, áp dụng các ki
 - Tính điểm (Score)
 - Khởi động lại game
 - Giao diện đơn giản, dễ sử dụng
->>>>>>> 69595591f0c3eda739d0b48b188b181a8a36e2bf
